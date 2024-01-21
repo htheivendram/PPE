@@ -1,4 +1,4 @@
-Code couleurs du projet MessageMatrix
+#Code couleurs du projet MessageMatrix
 
 -Rouge:Les période des grandes taches
 -Vert:Plannig 
